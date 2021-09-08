@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Claiborne
-- 👀 I’m interested in engineering leadership, both techincal and people
+- 👀 I’m interested in engineering leadership, technical & people
 - 📫 How to reach me https://www.linkedin.com/in/will-claiborne-15ba8a66/
 
 <!---
